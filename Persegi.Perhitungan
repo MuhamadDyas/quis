@@ -1,0 +1,11 @@
+# Persegi.Perhitungan
+package perhitungan;
+
+
+public class Persegi1 {
+     int Luas;
+   public int luaspersegi(int sisi){
+       Luas = sisi*sisi;
+       return Luas;
+   }
+}
