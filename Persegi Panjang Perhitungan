@@ -1,0 +1,11 @@
+# PersegiPanjang.Perhitungan
+package perhitungan;
+
+
+public class PersegiPanjang1 {
+    int luas;
+    public int persegiPanjang(int panjang, int lebar){
+        luas = panjang * lebar;
+        return luas;
+}
+}
